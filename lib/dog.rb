@@ -1,4 +1,5 @@
 class Dog
 
-  fido = new Dog 
+
 end
+fido = new Dog 
