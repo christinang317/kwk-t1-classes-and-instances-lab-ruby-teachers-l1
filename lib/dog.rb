@@ -1,5 +1,7 @@
 class Dog
 
+  fido
+  snoopy
+  lassie  
 
 end
-fido = new Dog 
